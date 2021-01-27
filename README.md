@@ -1,5 +1,6 @@
 # 100AlgorithmsChallenge_PyThon
-100 challenging algorithms using PyThon - Bài giải tham khảo - 100 thuật toán thử thách bằng PyThon
+- 100 challenging algorithms using PyThon
+- Bài giải tham khảo - 100 thuật toán thử thách bằng PyThon
 
-# Source Subject
-=> https://github.com/PizzaPokerGuy/100AlgorithmsChallenge
+# Subject Source
+Github => https://github.com/PizzaPokerGuy/100AlgorithmsChallenge
