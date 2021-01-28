@@ -47,9 +47,9 @@ def almostIncreasingSequence(arr):
     if up == 1 and down == 1:
         boolean = True
     elif up > down and down < 2:
-        if len(arr) > 4:
-            boolean = check3so(arr)
-        else:
+        #if len(arr) > 4:
+        #    boolean = check3so(arr)
+        #else:
             boolean = True
         
     else:
